@@ -1,0 +1,76 @@
+PMID- 37203605
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230522
+LR  - 20230522
+IS  - 1879-8365 (Electronic)
+IS  - 0926-9630 (Linking)
+VI  - 302
+DP  - 2023 May 18
+TI  - Predicting Progression of Type 2 Diabetes Using Primary Care Data with the Help 
+      of Machine Learning.
+PG  - 38-42
+LID - 10.3233/SHTI230060 [doi]
+AB  - Type 2 diabetes is a life-long health condition, and as it progresses, A range of 
+      comorbidities can develop. The prevalence of diabetes has increased gradually, 
+      and it is expected that 642 million adults will be living with diabetes by 2040. 
+      Early and proper interventions for managing diabetes-related comorbidities are 
+      important. In this study, we propose a Machine Learning (ML) model for predicting 
+      the risk of developing hypertension for patients who already have Type 2 
+      diabetes. We used the Connected Bradford dataset, consisting of 1.4 million 
+      patients, as our main dataset for data analysis and model building. As a result 
+      of data analysis, we found that hypertension is the most frequent observation 
+      among patients having Type 2 diabetes. Since hypertension is very important to 
+      predict clinically poor outcomes such as risk of heart, brain, kidney, and other 
+      diseases, it is crucial to make early and accurate predictions of the risk of 
+      having hypertension for Type 2 diabetic patients. We used Naïve Bayes (NB), 
+      Neural Network (NN), Random Forest (RF), and Support Vector Machine (SVM) to 
+      train our model. Then we ensembled these models to see the potential performance 
+      improvement. The ensemble method gave the best classification performance values 
+      of accuracy and kappa values of 0.9525 and 0.2183, respectively. We concluded 
+      that predicting the risk of developing hypertension for Type 2 diabetic patients 
+      using ML provides a promising stepping stone for preventing the Type 2 diabetes 
+      progression.
+FAU - Ozturk, Berk
+AU  - Ozturk B
+AD  - University of York, York, YO10 5GH, UK.
+FAU - Lawton, Tom
+AU  - Lawton T
+AD  - University of York, York, YO10 5GH, UK.
+AD  - Bradford Teaching Hospitals NHS Foundation Trust, Bradford BD9 6RJ, UK.
+FAU - Smith, Stephen
+AU  - Smith S
+AD  - University of York, York, YO10 5GH, UK.
+FAU - Habli, Ibrahim
+AU  - Habli I
+AD  - University of York, York, YO10 5GH, UK.
+LA  - eng
+PT  - Journal Article
+PL  - Netherlands
+TA  - Stud Health Technol Inform
+JT  - Studies in health technology and informatics
+JID - 9214582
+MH  - Adult
+MH  - Humans
+MH  - *Diabetes Mellitus, Type 2/diagnosis/epidemiology
+MH  - Bayes Theorem
+MH  - Machine Learning
+MH  - *Hypertension/diagnosis/epidemiology
+MH  - Primary Health Care
+MH  - Support Vector Machine
+OTO - NOTNLM
+OT  - Type 2 diabetes
+OT  - comorbidity
+OT  - data quality
+OT  - healthcare
+OT  - machine learning
+EDAT- 2023/05/19 06:42
+MHDA- 2023/05/22 06:42
+CRDT- 2023/05/19 05:29
+PHST- 2023/05/22 06:42 [medline]
+PHST- 2023/05/19 06:42 [pubmed]
+PHST- 2023/05/19 05:29 [entrez]
+AID - SHTI230060 [pii]
+AID - 10.3233/SHTI230060 [doi]
+PST - ppublish
+SO  - Stud Health Technol Inform. 2023 May 18;302:38-42. doi: 10.3233/SHTI230060.
